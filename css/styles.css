@@ -37,3 +37,17 @@ p {
 .btn-verde:hover {
   background-color: darkgreen; 
 }
+
+.primerEstilo {
+    border: 2px solid black; 
+    background-color: gray;  
+}
+
+.segundoEstilo {
+    border-radius: 15px;    
+}
+
+.tercerEstilo {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); 
+}
+
